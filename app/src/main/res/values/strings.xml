@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="edit_message">Enter a new task</string>
+    <string name="button_edit">EDIT</string>
+</resources>
